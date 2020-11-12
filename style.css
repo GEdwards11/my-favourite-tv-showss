@@ -1,0 +1,36 @@
+.header {
+    background-color: #F794DC;
+    height: 100px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+h1 {text-align:center;}
+}
+header h1{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+body {
+    font-family: Times New Roman, sans-serif, comic sans;
+}
+h3 {
+	text-align: center;
+	font-size: 30px
+}
+p {
+    font-size:20px;
+    font-style: comic sans;
+    position: right;
+    padding: 3px 2px
+    margin-right:10px;
+    margin-left:10px ;
+}
+.section--page {
+    height: 55vh;
+    background:pink;
+}
+ul li{
+    padding: 5px 0px
+}
+
+
